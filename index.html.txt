@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>BugFire.io</h1>
-<p>bug hunting/bug squashing/malware analysis/RE</p>
-</body>
-</html>
